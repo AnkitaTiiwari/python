@@ -1,0 +1,23 @@
+print("Hello, world!")
+
+#variables
+name = "Ankita"
+age = 30
+city = "Stuttgart"
+print(f"Hi ! my name is {name} I live in {city}  I am {age} old");
+
+foods = ["chai","coffee","Biscuit","cookies"]
+
+for food in foods:
+    if food.startswith('c'):
+        print(f"I like {food}")
+
+tempreture  = 34
+
+if tempreture < 15:
+    print(f'Its {tempreture} degrees outside')
+elif tempreture > 15 & tempreture <29:
+    print(f'Its {tempreture} degrees outside, and okay-ish')
+else:
+    print(f'Its {tempreture} degrees outside, and hot!!!')    
+        
