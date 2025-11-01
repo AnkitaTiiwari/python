@@ -21,3 +21,8 @@ elif tempreture > 15 & tempreture <29:
 else:
     print(f'Its {tempreture} degrees outside, and hot!!!')    
         
+
+def greet(name):
+    print(f"Hello Again {name}")
+
+greet("Sudhakar")    
