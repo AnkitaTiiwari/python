@@ -1,0 +1,34 @@
+2025-12-26 16:47:08,028 - DEBUG - This is a debug message
+2025-12-26 16:47:08,028 - DEBUG - Starting the Factorial
+2025-12-26 16:47:08,028 - DEBUG - want factorial of number 5
+2025-12-26 16:47:08,028 - DEBUG - Runnin loop for i 1, and total now is total 1
+2025-12-26 16:47:08,028 - DEBUG - Runnin loop for i 2, and total now is total 2
+2025-12-26 16:47:08,028 - DEBUG - Runnin loop for i 3, and total now is total 6
+2025-12-26 16:47:08,028 - DEBUG - Runnin loop for i 4, and total now is total 24
+2025-12-26 16:47:08,029 - DEBUG - Runnin loop for i 5, and total now is total 120
+2025-12-26 16:47:08,029 - DEBUG - Ending the Factorial
+2025-12-26 16:57:30,043 - DEBUG - This is a debug message
+2025-12-26 16:57:30,044 - DEBUG - Starting the Factorial
+2025-12-26 16:57:30,044 - DEBUG - want factorial of number 5
+2025-12-26 16:57:30,044 - DEBUG - Runnin loop for i 1, and total now is total 1
+2025-12-26 16:57:30,044 - DEBUG - Runnin loop for i 2, and total now is total 2
+2025-12-26 16:57:30,044 - DEBUG - Runnin loop for i 3, and total now is total 6
+2025-12-26 16:57:30,044 - DEBUG - Runnin loop for i 4, and total now is total 24
+2025-12-26 16:57:30,044 - DEBUG - Runnin loop for i 5, and total now is total 120
+2025-12-26 16:57:30,044 - DEBUG - Ending the Factorial
+2025-12-26 16:58:02,358 - DEBUG - This is a debug message
+2025-12-26 16:58:15,995 - DEBUG - Starting the Factorial
+2025-12-26 16:58:17,713 - DEBUG - want factorial of number 5
+2025-12-26 16:58:17,714 - DEBUG - Runnin loop for i 1, and total now is total 1
+2025-12-26 16:58:17,714 - DEBUG - Runnin loop for i 2, and total now is total 2
+2025-12-26 16:58:17,714 - DEBUG - Runnin loop for i 3, and total now is total 6
+2025-12-26 16:58:17,714 - DEBUG - Runnin loop for i 4, and total now is total 24
+2025-12-26 16:58:17,714 - DEBUG - Runnin loop for i 5, and total now is total 120
+2025-12-26 16:58:36,265 - DEBUG - This is a debug message
+2025-12-26 16:58:36,266 - DEBUG - Starting the Factorial
+2025-12-26 16:58:41,823 - DEBUG - want factorial of number 5
+2025-12-26 16:58:53,979 - DEBUG - Runnin loop for i 1, and total now is total 1
+2025-12-26 16:59:09,158 - DEBUG - Runnin loop for i 2, and total now is total 2
+2025-12-26 16:59:15,089 - DEBUG - Runnin loop for i 3, and total now is total 6
+2025-12-26 17:05:50,483 - DEBUG - This is a debug message
+2025-12-26 17:05:50,484 - DEBUG - Starting the Factorial
